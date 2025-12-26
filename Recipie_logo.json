@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "name": "Paneer Butter Masala",
+    "image": "https://example.com/paneer.jpg",
+    "time": "30 min",
+    "ingredients": [
+      "Paneer",
+      "Butter",
+      "Tomato",
+      "Cream",
+      "Spices"
+    ],
+    "steps": [
+      "Heat butter in pan",
+      "Add tomato puree",
+      "Add spices",
+      "Add paneer & cream"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Masala Dosa",
+    "image": "https://example.com/dosa.jpg",
+    "time": "25 min",
+    "ingredients": [
+      "Rice batter",
+      "Potato",
+      "Onion",
+      "Spices"
+    ],
+    "steps": [
+      "Prepare batter",
+      "Make potato masala",
+      "Cook dosa",
+      "Serve hot"
+    ]
+  }
+]
