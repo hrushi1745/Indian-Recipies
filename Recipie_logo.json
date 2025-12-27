@@ -1,58 +1,162 @@
 [
   {
-    "id": 1,
+    "id": 0,
     "name": "Paneer Butter Masala",
     "image": "https://www.livingsmartandhealthy.com/wp-content/uploads/2023/06/paneer-butter-masala-recipe-500x375.jpg",
     "time": "30 min",
-    "ingredients": [
-      "Paneer",
-      "Butter",
-      "Tomato",
-      "Cream",
-      "Spices"
-    ],
-    "steps": [
-      "Heat butter in pan",
-      "Add tomato puree",
-      "Add spices",
-      "Add paneer & cream"
-    ]
-  },
-  {
-    "id": 2,
-    "name": "Masala Dosa",
-    "image": "https://i.pinimg.com/736x/32/f9/c8/32f9c8b2f02c6c276a7b0d780dccf4bd.jpg",
-    "time": "25 min",
-    "ingredients": [
-      "Rice batter",
-      "Potato",
-      "Onion",
-      "Spices"
-    ],
-    "steps": [
-      "Prepare batter",
-      "Make potato masala",
-      "Cook dosa",
-      "Serve hot"
-    ]
+    "ingredients": ["Paneer", "Butter", "Tomato", "Cream", "Spices"],
+    "steps": ["Heat butter", "Add tomato puree", "Add spices", "Add paneer & cream"]
   },
   {
     "id": 1,
-    "name": "Paneer Butter Masala",
-    "image": "https://i.pinimg.com/736x/e8/dc/7f/e8dc7f0b59b8602ba30621dee3c6291c.jpg",
+    "name": "Masala Dosa",
+    "image": "https://i.pinimg.com/736x/32/f9/c8/32f9c8b2f02c6c276a7b0d780dccf4bd.jpg",
+    "time": "25 min",
+    "ingredients": ["Rice batter", "Potato", "Onion", "Spices"],
+    "steps": ["Prepare batter", "Make potato masala", "Cook dosa", "Serve hot"]
+  },
+  {
+    "id": 2,
+    "name": "Veg Biryani",
+    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/12/veg-biryani.jpg",
+    "time": "45 min",
+    "ingredients": ["Basmati rice", "Vegetables", "Yogurt", "Biryani masala"],
+    "steps": ["Cook rice", "Prepare masala", "Layer rice", "Dum cook"]
+  },
+  {
+    "id": 3,
+    "name": "Chole Bhature",
+    "image": "https://www.cookwithmanali.com/wp-content/uploads/2014/11/Chole-Bhature.jpg",
+    "time": "40 min",
+    "ingredients": ["Chickpeas", "Onion", "Tomato", "Spices", "Flour"],
+    "steps": ["Boil chickpeas", "Prepare chole", "Make bhature", "Fry"]
+  },
+  {
+    "id": 4,
+    "name": "Idli Sambhar",
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2013/06/idli-sambar.jpg",
+    "time": "20 min",
+    "ingredients": ["Idli batter", "Toor dal", "Vegetables", "Sambhar powder"],
+    "steps": ["Steam idli", "Cook dal", "Add veggies", "Serve"]
+  },
+  {
+    "id": 5,
+    "name": "Pav Bhaji",
+    "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/07/Pav-Bhaji-Recipe.jpg",
     "time": "30 min",
-    "ingredients": [
-      "Paneer",
-      "Butter",
-      "Tomato",
-      "Cream",
-      "Spices"
-    ],
-    "steps": [
-      "Heat butter in pan",
-      "Add tomato puree",
-      "Add spices",
-      "Add paneer & cream"
-    ]
+    "ingredients": ["Potato", "Tomato", "Capsicum", "Butter", "Masala"],
+    "steps": ["Boil veggies", "Mash & cook", "Toast pav", "Serve"]
+  },
+  {
+    "id": 6,
+    "name": "Rajma Chawal",
+    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/05/rajma-recipe.jpg",
+    "time": "35 min",
+    "ingredients": ["Rajma", "Rice", "Tomato", "Spices"],
+    "steps": ["Boil rajma", "Prepare gravy", "Cook rice", "Serve"]
+  },
+  {
+    "id": 7,
+    "name": "Aloo Paratha",
+    "image": "https://www.cookwithmanali.com/wp-content/uploads/2014/11/Aloo-Paratha.jpg",
+    "time": "25 min",
+    "ingredients": ["Wheat flour", "Potato", "Spices", "Butter"],
+    "steps": ["Prepare dough", "Make filling", "Roll paratha", "Cook"]
+  },
+  {
+    "id": 8,
+    "name": "Samosa",
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2013/08/samosa-recipe.jpg",
+    "time": "35 min",
+    "ingredients": ["Flour", "Potato", "Peas", "Spices"],
+    "steps": ["Prepare filling", "Make dough", "Shape samosa", "Fry"]
+  },
+  {
+    "id": 9,
+    "name": "Poha",
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2018/04/poha-recipe.jpg",
+    "time": "15 min",
+    "ingredients": ["Poha", "Onion", "Peanuts", "Spices"],
+    "steps": ["Wash poha", "Saute onion", "Add spices", "Serve"]
+  },
+  {
+    "id": 10,
+    "name": "Upma",
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2018/04/upma-recipe.jpg",
+    "time": "20 min",
+    "ingredients": ["Rava", "Vegetables", "Spices"],
+    "steps": ["Roast rava", "Cook veggies", "Add water", "Cook"]
+  },
+  {
+    "id": 11,
+    "name": "Palak Paneer",
+    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/palak-paneer.jpg",
+    "time": "30 min",
+    "ingredients": ["Spinach", "Paneer", "Spices"],
+    "steps": ["Blanch spinach", "Make puree", "Add paneer", "Cook"]
+  },
+  {
+    "id": 12,
+    "name": "Dal Tadka",
+    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/05/dal-tadka.jpg",
+    "time": "25 min",
+    "ingredients": ["Toor dal", "Ghee", "Spices"],
+    "steps": ["Boil dal", "Prepare tadka", "Mix & serve"]
+  },
+  {
+    "id": 13,
+    "name": "Veg Pulao",
+    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/12/veg-pulao.jpg",
+    "time": "30 min",
+    "ingredients": ["Rice", "Vegetables", "Spices"],
+    "steps": ["Wash rice", "Saute veggies", "Cook rice"]
+  },
+  {
+    "id": 14,
+    "name": "Kadhi Pakora",
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2013/10/kadhi-pakora.jpg",
+    "time": "40 min",
+    "ingredients": ["Curd", "Besan", "Spices"],
+    "steps": ["Make pakora", "Prepare kadhi", "Cook together"]
+  },
+  {
+    "id": 15,
+    "name": "Veg Manchurian",
+    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/07/veg-manchurian.jpg",
+    "time": "35 min",
+    "ingredients": ["Vegetables", "Sauces", "Flour"],
+    "steps": ["Make balls", "Fry", "Prepare sauce", "Mix"]
+  },
+  {
+    "id": 16,
+    "name": "Fried Rice",
+    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/07/veg-fried-rice.jpg",
+    "time": "25 min",
+    "ingredients": ["Rice", "Vegetables", "Sauces"],
+    "steps": ["Cook rice", "Stir fry veggies", "Mix rice"]
+  },
+  {
+    "id": 17,
+    "name": "Spring Roll",
+    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/07/veg-spring-rolls.jpg",
+    "time": "30 min",
+    "ingredients": ["Wrapper", "Vegetables", "Sauces"],
+    "steps": ["Prepare filling", "Roll", "Fry"]
+  },
+  {
+    "id": 18,
+    "name": "Rasgulla",
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2016/10/rasgulla-recipe.jpg",
+    "time": "35 min",
+    "ingredients": ["Milk", "Sugar", "Water"],
+    "steps": ["Make chenna", "Boil sugar syrup", "Cook balls"]
+  },
+  {
+    "id": 19,
+    "name": "Gulab Jamun",
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2018/10/gulab-jamun-recipe.jpg",
+    "time": "30 min",
+    "ingredients": ["Milk powder", "Flour", "Sugar"],
+    "steps": ["Prepare dough", "Fry balls", "Soak in syrup"]
   }
 ]
