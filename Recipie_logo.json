@@ -35,5 +35,24 @@
       "Cook dosa",
       "Serve hot"
     ]
+  },
+  {
+    "id": 1,
+    "name": "Paneer Butter Masala",
+    "image": "https://www.livingsmartandhealthy.com/wp-content/uploads/2023/06/paneer-butter-masala-recipe-500x375.jpg",
+    "time": "30 min",
+    "ingredients": [
+      "Paneer",
+      "Butter",
+      "Tomato",
+      "Cream",
+      "Spices"
+    ],
+    "steps": [
+      "Heat butter in pan",
+      "Add tomato puree",
+      "Add spices",
+      "Add paneer & cream"
+    ]
   }
 ]
