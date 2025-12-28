@@ -74,7 +74,7 @@
   {
     "id": 9,
     "name": "Poha",
-    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2018/04/poha-recipe.jpg",
+    "image": "https://thumbs.dreamstime.com/b/poha-23333662.jpg",
     "time": "15 min",
     "ingredients": ["Poha", "Onion", "Peanuts", "Spices"],
     "steps": ["Wash poha", "Saute onion", "Add spices", "Serve"]
@@ -82,7 +82,7 @@
   {
     "id": 10,
     "name": "Upma",
-    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2018/04/upma-recipe.jpg",
+    "image": "https://thumbs.dreamstime.com/b/upma-made-samolina-rava-upma-most-famous-south-indian-breakfast-item-which-beautifully-arranged-plate-banana-216111370.jpg",
     "time": "20 min",
     "ingredients": ["Rava", "Vegetables", "Spices"],
     "steps": ["Roast rava", "Cook veggies", "Add water", "Cook"]
@@ -90,7 +90,7 @@
   {
     "id": 11,
     "name": "Palak Paneer",
-    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/palak-paneer.jpg",
+    "image": "https://amritsr.com/wp-content/uploads/2021/12/palak-panerer.jpg",
     "time": "30 min",
     "ingredients": ["Spinach", "Paneer", "Spices"],
     "steps": ["Blanch spinach", "Make puree", "Add paneer", "Cook"]
@@ -98,7 +98,7 @@
   {
     "id": 12,
     "name": "Dal Tadka",
-    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/05/dal-tadka.jpg",
+    "image": "https://www.cookwithmanali.com/wp-content/uploads/2014/08/Dal-Tadka-480x270.jpg",
     "time": "25 min",
     "ingredients": ["Toor dal", "Ghee", "Spices"],
     "steps": ["Boil dal", "Prepare tadka", "Mix & serve"]
@@ -106,7 +106,7 @@
   {
     "id": 13,
     "name": "Veg Pulao",
-    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/12/veg-pulao.jpg",
+    "image": "https://swatisani.net/kitchen/wp-content/uploads/2015/10/IMG_9517.jpg",
     "time": "30 min",
     "ingredients": ["Rice", "Vegetables", "Spices"],
     "steps": ["Wash rice", "Saute veggies", "Cook rice"]
@@ -114,7 +114,7 @@
   {
     "id": 14,
     "name": "Kadhi Pakora",
-    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2013/10/kadhi-pakora.jpg",
+    "image": "https://pipingpotcurry.com/wp-content/uploads/2022/12/Kadhi-pakora-Piping-Pot-Curry-4.jpg",
     "time": "40 min",
     "ingredients": ["Curd", "Besan", "Spices"],
     "steps": ["Make pakora", "Prepare kadhi", "Cook together"]
@@ -122,7 +122,7 @@
   {
     "id": 15,
     "name": "Veg Manchurian",
-    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/07/veg-manchurian.jpg",
+    "image": "https://t4.ftcdn.net/jpg/03/24/56/73/360_F_324567329_VIPsg4s4kWkvqJviANcIgeYPG602kN56.jpg",
     "time": "35 min",
     "ingredients": ["Vegetables", "Sauces", "Flour"],
     "steps": ["Make balls", "Fry", "Prepare sauce", "Mix"]
@@ -130,7 +130,7 @@
   {
     "id": 16,
     "name": "Fried Rice",
-    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/07/veg-fried-rice.jpg",
+    "image": "https://cicili.tv/wp-content/uploads/2024/08/Chicken-Fried-Rice-Small-2-1200x900.jpg",
     "time": "25 min",
     "ingredients": ["Rice", "Vegetables", "Sauces"],
     "steps": ["Cook rice", "Stir fry veggies", "Mix rice"]
@@ -138,7 +138,7 @@
   {
     "id": 17,
     "name": "Spring Roll",
-    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/07/veg-spring-rolls.jpg",
+    "image": "https://t4.ftcdn.net/jpg/10/64/10/19/360_F_1064101942_xDeHFvdkpCC1gXQb10wU1wRFbW6f5Go3.jpg",
     "time": "30 min",
     "ingredients": ["Wrapper", "Vegetables", "Sauces"],
     "steps": ["Prepare filling", "Roll", "Fry"]
@@ -146,7 +146,7 @@
   {
     "id": 18,
     "name": "Rasgulla",
-    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2016/10/rasgulla-recipe.jpg",
+    "image": "https://palatesdesire.com/wp-content/uploads/2022/09/rasgulla-recipe@palates-desire-500x375.jpg",
     "time": "35 min",
     "ingredients": ["Milk", "Sugar", "Water"],
     "steps": ["Make chenna", "Boil sugar syrup", "Cook balls"]
